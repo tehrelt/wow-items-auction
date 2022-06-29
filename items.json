@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Шерсть",
+        "price": "0",
+        "recipe": null
+    },
+    {
+        "title": "Шелк",
+        "price": "0",
+        "recipe": null
+    },
+    {
+        "title": "Льняной материал",
+        "price": "0",
+        "recipe": null
+    },
+    {
+        "title": "Рулон льняной ткани",
+        "price": "40",
+        "recipe": [
+            {
+                "title": "Льняной материал",
+                "count": "2"
+            }
+        ]
+    },
+    {
+        "title": "Рулон шерсти",
+        "price": "400",
+        "recipe": [
+            {
+                "title": "Шерсть",
+                "count": "2"
+            }
+        ]
+    }
+]
